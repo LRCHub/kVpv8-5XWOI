@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Hey, Soul Sister",
+  "base_artist": "Train",
+  "createdAt": "2026-02-26T06:31:37.005530Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister (Country Mix)",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/01_Hey,_Soul_Sister_(Country_Mix)_Train.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister (Karmatronic Club Mix)",
+      "artist": "Train",
+      "has_synced": false,
+      "path": "select/02_Hey,_Soul_Sister_(Karmatronic_Club_Mix)_Train.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister (feat. Darren Criss)",
+      "artist": "Glee Cast feat. Darren Criss",
+      "has_synced": true,
+      "path": "select/03_Hey,_Soul_Sister_(feat._Darren_Criss)_Glee_Cast_feat._Darren_Criss.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/04_Hey,_Soul_Sister_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/05_Hey,_Soul_Sister_Train.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/06_Hey,_Soul_Sister_Train.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/07_Hey,_Soul_Sister_Train.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/08_Hey,_Soul_Sister_Train.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister (iTunes Session)",
+      "artist": "Train",
+      "has_synced": false,
+      "path": "select/09_Hey,_Soul_Sister_(iTunes_Session)_Train.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Soul Sister",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/10_Hey_Soul_Sister_Train.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Soul Sister",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/11_Hey_Soul_Sister_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister (Live)",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/12_Hey,_Soul_Sister_(Live)_Train.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Soul Sister",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/13_Hey_Soul_Sister_Train.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/14_Hey,_Soul_Sister_Train.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "has_synced": false,
+      "path": "select/pl_01_Hey,_Soul_Sister_Train.txt"
+    }
+  ]
+}
